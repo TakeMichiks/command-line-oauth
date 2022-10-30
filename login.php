@@ -3,8 +3,8 @@
 // Register an OAuth app at 
 // https://developer.okta.com/signup/
 
-$client_id = '';
-$client_secret = '';
+$client_id = '0oa726w4c1KHHoYjm5d7';
+$client_secret = 'IyekG0zb_SskFPYXwigf2uf1Z2mXobBFfts-UN2I';
 $metadata = http('https://dev-123456.oktapreview.com/oauth2/default/.well-known/oauth-authorization-server');
 
 $ip = '127.0.0.1';
